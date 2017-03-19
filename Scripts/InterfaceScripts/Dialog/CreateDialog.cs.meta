@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 5f13a001c5de3b040b9204aef9d876a5
+timeCreated: 1488301610
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - vibor: {fileID: 1912914633697900, guid: 0647c5413a0824049a8c56c50e47f82d, type: 2}
+  - dialog: {fileID: 1630008484486630, guid: 9a593ceb00720d8489256b09557df482, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
